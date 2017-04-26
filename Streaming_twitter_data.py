@@ -9,10 +9,10 @@ import boto3
 
 
 # Variables that contains the user credentials to access Twitter API
-access_token = "833382760836378624-AeatiG0WRg66n2mSYo3E8uOmtHgJ9Vr"
-access_token_secret = "4v1VigWZN1kQmFwhXCr0SYqTzRxyep1bEFfvKi66RN9TU"
-consumer_key = "G2WxyKR9OIdjUUAuVAV017wOr"
-consumer_secret = "0dAV4I04i9kcUm2rclEtXrfwCtAmZ5upHwK4xShzaVvbTPv2aY"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 
 # This is a basic listener that just prints received tweets to stdout
